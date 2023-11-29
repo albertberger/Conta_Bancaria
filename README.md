@@ -26,5 +26,6 @@ Execute o arquivo "arquivos_test.feature" para iniciar o processo de teste.
 
 ## Passo 4: Implementação da Classe Conta 
 Com base nas sugestões fornecidas e nas orientações anteriores, crie a classe "Conta" e importe as dependências necessárias do Cucumber.
+
 ![image](https://github.com/albertberger/Conta_Bancaria/assets/114450295/c365a7b6-f55b-49a9-9957-41ef04ab1d1b)
 
